@@ -1,4 +1,4 @@
-<a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6"><img src="https://giphy.com/embed/L8K62iTDkzGX6" title="gif"/></a>
+<a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6"><a src="https://giphy.com/embed/L8K62iTDkzGX6" title="gif" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen/></a>
 
 ### Hello world! 👋 I'm Deborah Strazza
 
