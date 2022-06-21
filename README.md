@@ -1,5 +1,6 @@
 
-### Hello world! 👋 I'm Deborah Strazza
+<h1 align="center"> Hello world! 👋 I'm Deborah Strazza </h1>
+<h3 align="center">Full Stack Web Developer</h3> 
 
 _I am taking my first steps in the world of programming._ 🚀
 Previously I studied chemical engineering and just a few months after finishing my degree I decided to be true to myself, find a path towards a job that respects the way I have chosen to continue my life.
