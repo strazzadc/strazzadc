@@ -7,6 +7,25 @@ I am a person open to continue learning what is necessary, to adapt to new or un
 
 Nice to meet you! I hope nice things come out of our meeting. 😄
 
+### Technologies so far...
+
+📌 Javascript
+📌 HTML
+📌 CSS
+📌 React
+📌 Redux
+📌 Node js
+📌 Express
+📌 Sequelize
+📌 PostgreSQL
+
+### Contact me!
+
+✨ strazzadc@gmail.com
+✨ https://www.linkedin.com/in/deborah-strazza-dev/
+
+
+
 <!--
 **strazzadc/strazzadc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
